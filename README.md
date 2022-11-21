@@ -1,4 +1,4 @@
-# Homework 5 - Linear Models
+# Homework 6 - Dimension Reduction and Fast Exponential Transform
 
 In this homework, you will find the questions in [answers.ipynb](answers.ipynb).  This is convenient for displaying math equations. You can use [answers.ipynb](answers.ipynb) for written answers and running simulations/displaying plots.
 
@@ -11,7 +11,7 @@ to install the packages in [`requirements.txt`](requirements.txt)
 ## Important Information
 
 ### Due Date
-This assignment is due Friday, November 18 at 11:59 PM (midnight) Chicago time.
+This assignment is due Friday, December 2 at 11:59 PM (midnight) Chicago time.
 
 ### Grading Rubric
 
@@ -19,9 +19,8 @@ The following rubric will be used for grading.
 
 |  | Total |
 |:-:|:-:|
-| Problem 0 | /30 |
-| Problem 1 | /10 |
-| Problem 2 | /20 |
+| Problem 0 | /20 |
+| Problem 1 | /30 |
 
 Correctness will be based on code (i.e. did you provide was was asked for) and the content of [`answers.ipynb`](answers.ipynb).
 
